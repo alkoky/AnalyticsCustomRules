@@ -4,7 +4,7 @@
 Summary
 --------------
 
-This module allows you to manage marketing channels settings rules instead of configuring it in the configure file which gives the author more flexibility and eliminate the need for a developer to apply the changes.
+This module allows you to manage marketing channels settings rules instead of configuring it in the configuration file which gives the author more flexibility and eliminate the need for a developer to apply the changes.
 
 Usage
 --------------
