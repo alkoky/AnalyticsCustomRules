@@ -15,7 +15,7 @@ Setup
 --------------
 Either:
 * Install Sitecore package: 
-  https://github.com/alkoky/Analytics.ChannelRules/blob/master/releases/Analytics%20Channel%20Rules-1.0.zip
+  https://github.com/alkoky/AnalyticsCustomRules/blob/master/releases/Analytics%20Channel%20Rules-1.0.zip
 			
 Or:
 1. Include this project in your Helix style solution
