@@ -1,0 +1,28 @@
+﻿---
+ID: "e873653b-25b6-4274-89b3-afd58f41e655"
+Parent: "365dbf2d-bbf5-4dd3-9d7b-03ff256790df"
+Template: "f90052a5-b4e6-4e6d-9812-1e1b88a6fcea"
+Path: /sitecore/system/Settings/Rules/Definitions/Elements/Channels/Select Channel
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "ff55d5a7-6d4b-4cd1-83e0-bac268073f66"
+  Hint: Type
+  Value: Foundation.Analytics.ChannelRules.Rules.Actions.GetChannelId, Foundation.Analytics.ChannelRules
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180308T175838Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "eeb36a3b-40d9-4af5-862a-de257b84dca3"
+      Hint: Text
+      Value: "Set the current interaction on the [ChannelId,Tree,root=/sitecore/system/Marketing Control Panel/Taxonomies/Channel&selection=System/Analytics/Marketing Taxonomy/Channel/Channel,specified] channel"

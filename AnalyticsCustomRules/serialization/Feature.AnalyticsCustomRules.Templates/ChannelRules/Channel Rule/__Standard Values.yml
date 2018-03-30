@@ -1,0 +1,21 @@
+﻿---
+ID: "c7d69dc9-e88a-49ee-bb0f-a0452e0f2e3e"
+Parent: "a211519a-0eae-446b-8847-f0da9cf5e48d"
+Template: "a211519a-0eae-446b-8847-f0da9cf5e48d"
+Path: /sitecore/templates/Foundation/ChannelRules/Channel Rule/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180308T172913Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e84086c3-2512-4ba2-b741-70fb57a63f8d"
+      Hint: Name
+      Value: $name

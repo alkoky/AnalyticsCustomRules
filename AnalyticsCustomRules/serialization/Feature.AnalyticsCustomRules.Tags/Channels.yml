@@ -1,0 +1,23 @@
+﻿---
+ID: "d9b3c602-314c-4344-9324-c4be5c402e66"
+Parent: "dadb4f93-477f-491f-a905-c4005c452e67"
+Template: "1a9b6300-4652-477c-a4b5-b2a64e86b29f"
+Path: /sitecore/system/Settings/Rules/Definitions/Tags/Channels
+DB: master
+BranchID: "60e3e35b-cef9-4afa-9f89-204ed015ccb9"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/bookmark_new.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180308T173513Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

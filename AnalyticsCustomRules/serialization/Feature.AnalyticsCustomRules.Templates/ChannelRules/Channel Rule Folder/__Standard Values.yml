@@ -1,0 +1,23 @@
+﻿---
+ID: "5413035d-7b69-4d5d-b8d9-936191449e9e"
+Parent: "323307cb-ccc3-4a9a-a6bf-a41a89e0a4db"
+Template: "323307cb-ccc3-4a9a-a6bf-a41a89e0a4db"
+Path: /sitecore/templates/Foundation/ChannelRules/Channel Rule Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{A211519A-0EAE-446B-8847-F0DA9CF5E48D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180308T181835Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

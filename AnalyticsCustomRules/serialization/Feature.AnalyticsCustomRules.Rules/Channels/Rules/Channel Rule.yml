@@ -1,0 +1,17 @@
+﻿---
+ID: "907777a7-bae8-437d-af9d-e394c4a25e13"
+Parent: "4d2f554f-9a93-4891-a48c-9522bf5e7599"
+Template: "a211519a-0eae-446b-8847-f0da9cf5e48d"
+Path: /sitecore/system/Settings/Rules/Channels/Rules/Channel Rule
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180308T173137Z
+    - ID: "e84086c3-2512-4ba2-b741-70fb57a63f8d"
+      Hint: Name
+      Value: Channel Rule
