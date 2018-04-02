@@ -10,6 +10,7 @@ Usage
 --------------
 Manage rules under /sitecore/system/Marketing Control Panel/Taxonomies/Channel Rules
 
+for screenshoots,please check https://github.com/alkoky/AnalyticsCustomRules/wiki/Usage
   
 Setup
 --------------
